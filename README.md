@@ -1,4 +1,4 @@
-## Dota2 Personal Coach - Building AI course project
+# Dota2 Personal Coach - Building AI course project
 
 A program that helps players of dota 2 predict the outcome based on heroe and item selections
 
