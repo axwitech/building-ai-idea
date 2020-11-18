@@ -1,5 +1,5 @@
-##Summary
-Dota 2 - personal coach. Building AI course project. A project that tries to help dota2 players and coached to predict the outcome based on the hero and item selections
+## Summary - Building AI course project
+Dota 2 - personal coach. A project that tries to help dota2 players and coached to predict the outcome based on the hero and item selections
 
 **Your idea in a nutshell**: Dota2 - Personal coach
 
